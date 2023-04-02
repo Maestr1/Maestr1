@@ -9,7 +9,7 @@
 
 ### 🧐 Подробнее обо мне:
 
-- 🔭   Сейчас я работаю над **okdesk_portal_fronend** и **okdesk_portal_backend**
+- 🔭   Сейчас я работаю над **okdesk_portal_frontend** и **okdesk_portal_backend**
 - 🌱   В настоящее время я изучаю Typescript и Redux;
 - 👨🏻‍💻   Большинство моих проектов доступны на [Github](https://github.com/Maestr1)
 - 📫   Не стесняйтесь добавлять меня на [LinkedIn](https://www.linkedin.com/in/dmitry--ovchinnikov/)
