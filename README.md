@@ -11,7 +11,7 @@
 
 - 🔭   Сейчас я работаю над проектом портала для инженеров сервисного обслуживания;
 - 🌱   В настоящее время я изучаю Typescript и Redux;
-- 📝   Ознакомьтесь с моим [резюме](https://drive.google.com/file/d/1sYH2lBZlf6DHldSGXOP3aJ4kBNwHYbBF/view?usp=sharing)
+- 📄   Ознакомьтесь с моим [резюме](https://drive.google.com/file/d/1sYH2lBZlf6DHldSGXOP3aJ4kBNwHYbBF/view?usp=sharing)
 
 
 
@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>&nbsp;
 
 <br>
-<br>
-<br>
+
+### 📈 Моя статистика:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maestr1&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
