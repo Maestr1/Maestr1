@@ -5,16 +5,21 @@
 <br>
 <br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
 
 ### 🧐 Подробнее обо мне:
 
 - 🔭   Сейчас я работаю над проектом портала для инженеров сервисного обслуживания;
 - 🌱   В настоящее время я изучаю Typescript и Redux;
-- 📫   Не стесняйтесь добавлять меня на [LinkedIn](https://www.linkedin.com/in/dmitry--ovchinnikov/)
 - 📝   Ознакомьтесь с моим [резюме](https://drive.google.com/file/d/1sYH2lBZlf6DHldSGXOP3aJ4kBNwHYbBF/view?usp=sharing)
 
-<br>
+
+
+### 📝 Мои контакты: 
+<a href="https://www.linkedin.com/in/dmitry--ovchinnikov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://t.me/Maestrone0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge" style="border-radius:50%"/></a>
+<a href="mailto:maestr234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge" style="border-radius:50%"/></a>
+
 
 ### 🔨 Языки и инструменты:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
